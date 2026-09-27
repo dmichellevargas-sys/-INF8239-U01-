@@ -1,6 +1,6 @@
 # INF-8239 · Ciencia de Datos II — Unidad 01
 
-**Autora:** Michelle Cruz
+**Autora:** Dahianna Vargas
 **Asignatura:** INF-8239 Ciencia de Datos II (UASD, Maestría en Ciencia de Datos e IA)
 **Unidad:** 01 — Modelos avanzados, reducción dimensional y Green AI
 **Dataset:** Iranian Churn Dataset (UCI ML Repository, id 563, CC BY 4.0)
@@ -50,7 +50,7 @@ PYTHONPATH=src python -m pytest -q
 Nota: las 3 pruebas de `test_data_contract.py` solo pasan una vez que el CSV real
 está en `data/raw/iranian_churn_dataset.csv`.
 
-## Trabajar en Google Colab + Google Drive (recomendado)
+## Trabajar en Google Colab + Google Drive
 
 **Primera vez:**
 1. Abre [colab.research.google.com](https://colab.research.google.com) y sube el archivo
